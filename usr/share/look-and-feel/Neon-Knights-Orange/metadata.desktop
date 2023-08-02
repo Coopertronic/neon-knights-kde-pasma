@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Neon Knights Look And Feel
+Name=Neon Knights Orange
+X-KDE-PluginInfo-Author=ju1464
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 3+
+X-KDE-PluginInfo-Name=Neon-Knights-Orange
+X-KDE-PluginInfo-Version=0.5
+X-KDE-PluginInfo-Website=https://www.pling.com/u/ju1464/
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://aurorae.knsrc/api.kde-look.org/1320441,kns://colorschemes.knsrc/api.kde-look.org/1403411,kns://plasma-themes.knsrc/api.kde-look.org/1320469,kns://icons.knsrc/api.kde-look.org/1397764,kns://wallpaper.knsrc/api.kde-look.org/1320457,kns://sddmtheme.knsrc/api.kde-look.org/1362261
