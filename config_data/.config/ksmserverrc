@@ -1,2 +1,24 @@
 [$Version]
 update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1014419e19f145000169101240200000009650004
+clientId2=1014419e19f145000169101240400000009650007
+clientId3=1014419e19f145000169101242000000009650008
+count=3
+discardCommand3[$e]=rm,$HOME/.config/session/systemsettings_1014419e19f145000169101242000000009650008_1691012609_496697
+program1=/usr/lib/DiscoverNotifier
+program2=pulseaudio
+program3=/usr/bin/systemsettings
+restartCommand1=/usr/lib/DiscoverNotifier,-session,1014419e19f145000169101240200000009650004_1691012609_496401
+restartCommand2=
+restartCommand3=/usr/bin/systemsettings,-session,1014419e19f145000169101242000000009650008_1691012609_496697
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=coopertronic
+userId2=coopertronic
+userId3=coopertronic
