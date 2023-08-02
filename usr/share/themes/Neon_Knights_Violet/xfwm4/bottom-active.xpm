@@ -1,0 +1,6 @@
+/* XPM */
+static char *bottom_xpm[] = {
+"8 1 1 1",
+"0	c #D900FF",
+"00000000"
+};
