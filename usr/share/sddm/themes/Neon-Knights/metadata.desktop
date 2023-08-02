@@ -1,0 +1,17 @@
+[SddmGreeterTheme]
+Name=Neon Knights
+Description=Neon Knights SDDM
+
+Author=KDE Visual Design Group (customized by ju1464)
+Copyright=(c) 2014, David Edmundson
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=https://www.opencode.net/ju1464/Neon_Knights
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=
+Theme-Id=Neon-Knights
+Theme-API=2.0
