@@ -1,7 +1,7 @@
 # Maintainer: Matthew Phillip Cooper <matthew@coopertronic.co.uk>
 pkgname=neon-knights-kde-pasma
 _destname1="/usr"
-pkgver=1.r16.245e942
+pkgver=1.r18.03877ff
 pkgrel=1
 pkgdesc="This installs the Neon Knights global theme for KDE plasma by ju1464."
 arch=('any')
